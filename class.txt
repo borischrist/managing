@@ -4,6 +4,7 @@ Orange
 Blue
 Cyan
 Yellow
+Lila!
 Charcoal
 Khaki
 Coral
